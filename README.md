@@ -62,3 +62,5 @@ Validation Accuracy: ~YY%
 Model: Basic CNN with 2 convolutional blocks and dropout regularization
 
 The model achieved reasonable performance for a basic architecture without using transfer learning or heavy regularization.
+
+<img width="1919" height="1020" alt="Image" src="https://github.com/user-attachments/assets/e4bfea69-cde4-41b5-8c08-0309c542a528" />
