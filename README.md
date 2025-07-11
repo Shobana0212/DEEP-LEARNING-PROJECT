@@ -1,3 +1,13 @@
+
+## 🏢 Internship Details
+
+- **Company**: CODTECH IT SOLUTIONS  
+- **Intern Name**: Shobana Balusamy
+- **Intern ID**: CITS0D117  
+- **Domain**: Data Science
+- **Duration**: 4 Weeks  
+- **Mentor**: Neela Santosh
+
 # 🧠 Deep Learning: CIFAR-10 Image Classification
 
 ## 📌 Project Overview
