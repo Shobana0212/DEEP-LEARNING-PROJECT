@@ -29,6 +29,31 @@ jupyter notebook
 
 ---
 
+## 💡 Future Enhancements
+Use pretrained models like ResNet or VGG via Transfer Learning
+
+Implement learning rate schedulers
+
+Add Streamlit interface for live predictions
+
+Train longer for higher accuracy
+
+---
+
+## 📄 License
+This project is licensed under the MIT License.
+
+---
+
+## 🙏 Acknowledgements
+TensorFlow Documentation
+
+CIFAR-10 Dataset from Alex Krizhevsky
+
+DeepLearning.AI Courses by Andrew Ng
+
+---
+
 ## 🎯 Results Summary
 Training Accuracy: ~XX%
 
